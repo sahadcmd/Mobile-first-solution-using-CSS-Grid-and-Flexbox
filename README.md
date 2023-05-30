@@ -3,7 +3,7 @@
 <h3 align="center"><b>QR Code</b></h3>
 
 <p align="center">
-  <a href="https://sahadcmd.github.io/QR-Code/">View Demo</a>
+  <a href="https://sahadcmd.github.io/QR-Code/" target="_blank">View Demo</a>
 </p>
   
 <br>
