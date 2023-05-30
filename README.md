@@ -1,5 +1,15 @@
 # Frontend Mentor - QR code component solution
 
+<h3 align="center"><b>QR Code</b></h3>
+
+<p align="center">
+  <a href="https://sahadcmd.github.io/QR-Code/">View Demo</a>
+</p>
+  
+<br>
+<br>
+
+
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Preview
